@@ -1,4 +1,4 @@
-package com.heliorodri.game;
+package com.heliorodri.facade;
 
 public class Graphics {
 

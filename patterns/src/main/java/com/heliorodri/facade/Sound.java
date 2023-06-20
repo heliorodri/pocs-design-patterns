@@ -1,5 +1,8 @@
 package com.heliorodri.facade;
 
+import lombok.NoArgsConstructor;
+
+@NoArgsConstructor
 public class Sound {
 
     public static final String PLAYING_SOUND = "Playing sound";

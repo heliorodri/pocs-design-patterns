@@ -1,5 +1,6 @@
 package com.heliorodri.facade;
 
+import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 
@@ -7,8 +8,8 @@ import lombok.RequiredArgsConstructor;
  * GameFacade encapsulates the use of the Graphics and Sound subsystems of
  * the game engine to provide simplified methods to the game settings.
  */
-@RequiredArgsConstructor
 @Getter
+@AllArgsConstructor
 public class GameFacade {
 
     private final Graphics graphics;

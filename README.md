@@ -10,3 +10,6 @@
 ## Singleton Pattern
 - [Singleton impl](./patterns/src/main/java/com/heliorodri/singleton)
 - [Singleton tests](./patterns/src/test/java/com/heliorodri/singleton)
+## Builder Pattern
+- [Builder impl](./patterns/src/main/java/com/heliorodri/builder)
+- [Builder tests](./patterns/src/test/java/com/heliorodri/builder)
